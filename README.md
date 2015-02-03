@@ -1,2 +1,3 @@
 # Shooter
-shooting game
+
+A SHMUP game.
